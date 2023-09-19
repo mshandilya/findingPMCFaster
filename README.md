@@ -12,7 +12,7 @@ The problem statement requires us to create a mathematical mapping (or function)
 ### How is the problem approached in the concerned research paper
 The solution to the problem is attempted to be built from the ground up using singular (or small) updates to the solution and sometimes branching off to more than one possible solution, **repeating** the process until a final solution is built or it becomes evident that a solution cannot be built.
 
-## The Research Paper
+## The Research Paper [🔗](https://doi.org/10.1007/978-3-031-34347-6_26)
 Let's not repeat what's already written in the paper's abstract. Since we only intend to implement the method of finding perfect matching cuts (the kind of mapping we described above), let's consider everything that is said in the paper as a black box in order to ignore the calculations, proofs, and rationality behind everything.
 
 Our purpose now becomes much simpler. We just need to understand what the paper intends us to do in order to form a solution for the problem.
