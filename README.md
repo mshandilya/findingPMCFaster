@@ -1,6 +1,5 @@
-# GRASP Club Induction Assignment
-This repository contains all the files related to the solution of [@mshandilya](mailto:mrigankashekhar.shandilya@iitgn.ac.in) for the Club Induction Assignment of GRASP, IIT Gandhinagar in the year 2023. The various files contained in this repository are described below.
-
+# Implementation of the algorithm proposed in "Finding Perfect Matching Cuts Faster"
+As the title suggests, this repository contains the implementation for the algorithm proposed by Misra and More in their paper "Finding Perfect Matching Cuts Faster".
 Before you start reading further, if you are unfamiliar with any of the terms used in this repository, you can look for them in the [glossary](#glossary). If you feel you significantly lack knowledge in one or more of the topics, check out the [resources](#resources).
 
 ## Problem Statement
